@@ -15,6 +15,7 @@ Used: Java, Xml
 IDE: Android Studio
 
 References for code:
+
 https://www.geeksforgeeks.org/how-to-build-a-simple-note-android-app-using-mvvm-and-room-database/?ref=rp
 
 https://www.geeksforgeeks.org/how-to-perform-crud-operations-in-room-database-in-android/
