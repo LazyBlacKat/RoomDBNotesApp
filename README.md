@@ -10,7 +10,7 @@ They can be deleted by swiping the card left or right.
 They can be edited and saved.
 The data is stored using Room Database.
 
-Used: Java, Xml
+Language: Java
 
 IDE: Android Studio
 
